@@ -13,7 +13,7 @@
 ###My Github Stats:
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=debz-g&&show_icons=true&title_color=f54263&icon_color=f54263&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=debz-g">
 
 
 
