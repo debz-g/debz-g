@@ -19,4 +19,4 @@
 
 ### Languages I used:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debz-g&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debz-g&layout=compact&color=2e2e2e">
