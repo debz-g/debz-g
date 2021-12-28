@@ -13,10 +13,10 @@
 ### My Github Stats:
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=debz-g">
+<img src="https://github-readme-stats.vercel.app/api?username=debz-g&theme=great-gatsby&show_icons=true&icon_color=f54260&title_color=f54260">
 
 
 
 ### Languages I used:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debz-g&layout=compact&color=2e2e2e">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debz-g&layout=compact&color=2e2e2e&theme=great-gatsby&show_icons=true&icon_color=f54260&title_color=f54260&text_color=e9ff6b">
