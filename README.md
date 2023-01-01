@@ -1,8 +1,8 @@
 ### Hi there, I'm Debayan 👋
 
 
-- 🔭 I’m currently working on Android Dashboard for KWGT.
-- 🌱 I’m currently learning Kubernetes and Android Architecture.
+- 🔭 I’m currently learning DSA and Spring Boot.
+- 🌱 I’m have worked with Kotlin, Java and XML and exploring Jetpack Compose.
 - 👯 I’m looking to collaborate on Android and Cloud Projects.
 - ⚡ Fun fact: I watch a lot of anime and listen to anime lo-fi songs.
 
