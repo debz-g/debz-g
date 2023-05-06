@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debz-g&show_icons=true&locale=en&layout=compact&theme=dark" alt="debz-g" /></p>
 <p><img align="center" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/android.gif" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=debz-g&show_icons=true&locale=en&theme=dark" alt="debz-g" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=debz-g&show_icons=true&locale=en&theme=dark&hide=issues" alt="debz-g" /></p>
