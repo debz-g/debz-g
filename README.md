@@ -37,7 +37,7 @@
 <h3 align="left">📈Stats:</h3>
 <p><img align="center" alt="GIF" height="175px" width="175px" src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/android.gif" /></p>
 <p><img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=debz-g&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=011627&border_color=3DDC84" alt="debz-g" /></p>
-<p><img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=debz-g&show_icons=true&locale=en&theme=dark&hide=issues&bg_color=011627&border_color=3DDC84" alt="debz-g" /></p>
+<p><img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=debz-g&show_icons=true&locale=en&theme=dark&hide=issues&bg_color=011627&border_color=3DDC84" alt="debz-g" /></p>
 
 
 
