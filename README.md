@@ -1,7 +1,5 @@
-![image](https://user-images.githubusercontent.com/77199373/236599838-96aa70ac-8ce5-4f7c-958c-80a5f4989bed.png)
+  ![githubbanner](https://user-images.githubusercontent.com/77199373/236600863-ecadc812-4e0a-40d9-98fb-65d4972e71c2.png)
 
-<h1 align="left">Hi 👋, I'm Debayan</h1>   
-<h3 align="left">Your everything android guy.</h3>   
 
 <p align="left"> <a href="https://twitter.com/debz_exe" target="blank"><img src="https://img.shields.io/twitter/follow/debz_exe?logo=twitter&style=for-the-badge" alt="debz_exe" /></a> </p>
 
