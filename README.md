@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose and Spring with Kotlin**
 
-- 👨‍💻 All of my projects are available at [debayan.me](debayan.me)
+- 👨‍💻 All of my projects are available at [debayan.me](https://debayan.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@debz_exe](https://medium.com/@debz_exe) 
 
